@@ -12,7 +12,7 @@ Interface-ID,IU-105,IU-106,IU-168,IU-370,IU-371,IU-374,IU-375,IU-508,Usability I
 11,0,0,0,0,0,0,0,0,negative
 12,0,0,0,0,0,0,1,0,negative
 13,0,2,0,0,0,0,0,0,negative
-14,,0,1,1,0,0,0,0,negative
+14,0,0,1,1,0,0,0,0,negative
 15,2,2,2,0,2,0,2,0,negative
 16,0,1,0,0,0,0,0,0,negative
 17,0,2,0,2,0,0,2,0,negative
